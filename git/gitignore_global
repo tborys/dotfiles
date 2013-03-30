@@ -1,0 +1,49 @@
+# Compiled source
+*.app
+*.class
+*.com
+*.dll
+*.dylib
+*.exe
+*.jnilib
+*.o
+*.so
+
+# Logs & databases
+*.log
+*.sql
+*.sqlite
+
+# Maven
+target/
+
+# NetBeans
+build/
+dist/
+nbbuild/
+nbdist/
+nbproject/private
+
+# OS X generated files
+.DS_Store*
+Icon?
+
+# Packages
+*.7z
+*.dmg
+*.ear
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.war
+*.zip
+
+# Vim
+*.un~
+.*.sw[a-w][a-z]
+.netrwhist
+.VimballRecord
+tags
+*~
