@@ -1,6 +1,6 @@
 Aaron Mahan's dotfiles.
 
-Note: gitconfig_global no longer displays properly in GitHub after I added two
+Note: gitignore_global no longer displays properly in GitHub after I added two
 literal carriage return characters to the OS X 'Icon' rule, so that git will
 correctly ignore OS X generated 'Icon' files that end in a literal carriage
 return character (although they can deceptively appear as 'Icon?', they are
