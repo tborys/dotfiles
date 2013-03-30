@@ -6,3 +6,6 @@ correctly ignore OS X generated 'Icon' files that end in a literal carriage
 return character (although they can deceptively appear as 'Icon?', they are
 actually 'Icon\r'). You can check out this blog post for more information:
 http://blog.bitfluent.com/post/173740409/ignoring-icon-in-gitignore
+
+If you want to view the actual gitignore_global, you can go here:
+https://raw.github.com/3xp0n3nt/dotfiles/master/git/gitignore_global
