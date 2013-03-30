@@ -1,9 +1,9 @@
 [user]
-	name = Aaron Mahan
-	email = knightofiam@gmail.com
+  name = Aaron Mahan
+  email = knightofiam@gmail.com
 [core]
-	excludesfile = ~/.gitignore_global
-	mergeoptions = --no-edit
+  excludesfile = ~/.gitignore_global
+  mergeoptions = --no-edit
 [alias]
   history = log --follow --all -p
   showlastmerge = !git log $(git merge-base --octopus $(git log -1 --merges --pretty=format:%P))..$(git log -1 --merges --pretty=format:%H) --boundary --graph --pretty=oneline --abbrev-commit
@@ -12,6 +12,6 @@
   show = diff-highlight | less
   diff = diff-highlight | less
 [push]
-	default = simple
+  default = simple
 [merge]
-	ff = false
+  ff = false
