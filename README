@@ -1,4 +1,4 @@
-Aaron Mahan's dotfiles collection.
+Aaron Mahan's dotfiles.
 
 Note: gitignore_global no longer displays properly in the GitHub file preview
 window after I added two literal carriage return characters to the OS X 'Icon'
